@@ -52,6 +52,7 @@ The model is able to:
 - Visualise bounding boxes and trajectories
    
 Example outputs and tracking visualisations are available in the results folder.
+<img width="487" height="597" alt="Screenshot 2026-01-09 at 10 16 26 PM" src="https://github.com/user-attachments/assets/73a2f9d2-c7da-4c4c-9afb-348504def9cf" />
 
 **How to Run**
 1. Install dependencies:
